@@ -30,4 +30,14 @@ Elite athletes suffer from "App Fatigue." They use separate apps for workouts, s
    ```bash
    git clone [https://github.com/your-username/smart-recover-app.git](https://github.com/your-username/smart-recover-app.git)
    cd smart-recover-app
+2. **Install dependencies:**
+   ```bash
+   npm install
+3. **Link your Supabase Backend:**
+   ```bash
+   npx supabase login
+   npx supabase link --project-ref your-project-id
+4. **Start the development server:**
+   ```bash
+   Start the development server:
   
