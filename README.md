@@ -28,7 +28,7 @@ Elite athletes suffer from "App Fatigue." They use separate apps for workouts, s
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/smart-recover-app.git](https://github.com/your-username/smart-recover-app.git)
+   git clone [https://github.com/MSpringe07/smart-recover-app.git](https://github.com/MSpringe07/smart-recover-app.git)
    cd smart-recover-app
 2. **Install dependencies:**
    ```bash
